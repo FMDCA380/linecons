@@ -5,6 +5,18 @@
     "linecons"
   ],
   "homepage": "https://github.com/FMDCA380/linecons",
+  "main":[
+  	"css/animation.css",
+  	"css/linecons-codes.css",
+  	"css/linecons-embedded.css",
+  	"css/linecons-ie7-codes.css",
+  	"css/linecons-ie7.css",
+  	"css/linecons.css",
+  	"font/linecons.eot",
+  	"font/linecons.svg",
+  	"font/linecons.ttf",
+  	"font/linecons.woff",
+  ],
   "license": "MIT",
   "moduleType": "globals",
   "ignore": [
