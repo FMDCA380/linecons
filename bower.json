@@ -1,0 +1,20 @@
+{
+  "name": "linecons",
+  "description": "linecons",
+  "keywords": [
+    "linecons"
+  ],
+  "homepage": "https://github.com/FMDCA380/linecons",
+  "license": "MIT",
+  "moduleType": "globals",
+  "ignore": [
+    "/.*",
+    "_config.yml",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+    "js/tests",
+    "test-infra"
+  ]
+}
